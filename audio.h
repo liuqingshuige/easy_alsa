@@ -2,7 +2,7 @@
  * ALSA录音封装
  * Copyright FreeCode. All Rights Reserved.
  * MIT License (https://opensource.org/licenses/MIT)
- * 2024 by lingqingshuige
+ * 2024 by liuqingshuige
  */
 #ifndef __FREE_AUDIO_H__
 #define __FREE_AUDIO_H__
