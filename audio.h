@@ -198,7 +198,7 @@ typedef struct PcmChannel_t
                         *ptr1++ = *ptr++;
                         ptr++;
                     }
-                    return (in_size>>2);
+                    return (in_size>>1);
                 }
                 return -1;
             }
